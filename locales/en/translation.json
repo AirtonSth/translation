@@ -8,5 +8,10 @@
   "name": "Name",
   "description": "Description",
   "close": "Close",
-  "save": "Save"
+  "cancel": "Cancelar",
+  "no": "Não",
+  "yes": "Sim",
+  "save": "Save",
+  "unsave_text": "You have unsaved changes. Do you want to leave this page?",
+  "unsave_title": "Unsaved Changes"
 }
