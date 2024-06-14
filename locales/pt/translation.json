@@ -1,3 +1,12 @@
 {
-  "welcome_message": "Bem vindo a CubusStar"
+  "welcome_message": "Bem vindo a CubusStar",
+  "brand_list": "Lista de Marcas",
+  "brand_detail": "Detalhes da Marca",
+  "brand_edit": "Editar Marca",
+  "brand_add": "Adicionar Marca",
+  "brand": "Marca",
+  "name": "Nome",
+  "description": "Descrição",
+  "close": "Fechar",
+  "save": "Salvar"
 }
